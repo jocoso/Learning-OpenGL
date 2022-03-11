@@ -1,3 +1,2 @@
 ﻿  chapter5.cpp
-chapter5.obj : error LNK2005: main already defined in chapter4.obj
-C:\Users\Joshua\Desktop\programming\C++\Learning-OpenGL\Chapters\x64\Debug\Chapters.exe : fatal error LNK1169: one or more multiply defined symbols found
+  Chapters.vcxproj -> C:\Users\Joshua\Desktop\programming\C++\Learning-OpenGL\Chapters\x64\Debug\Chapters.exe
