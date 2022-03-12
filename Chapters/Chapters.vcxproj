@@ -23,6 +23,7 @@
     <ClCompile Include="chapter4.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="chapter5.cpp" />
+    <ClCompile Include="Chapter5Exercises.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
