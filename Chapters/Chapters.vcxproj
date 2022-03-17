@@ -21,9 +21,26 @@
   <ItemGroup>
     <ClCompile Include="chapter3.cpp" />
     <ClCompile Include="chapter4.cpp" />
+    <ClCompile Include="Chapter6.cpp" />
+    <ClCompile Include="Chapter7.cpp" />
+    <ClCompile Include="Chapter8.cpp" />
+    <ClCompile Include="extras\chapter6\chapter6shaderclass.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="chapter5.cpp" />
     <ClCompile Include="Chapter5Exercises.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="stb_image.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chapter.h" />
+    <ClInclude Include="Chapter7.h" />
+    <ClInclude Include="Chapter8.h" />
+    <ClInclude Include="extras\chapter6\chapter6shaderclass.h" />
+    <ClInclude Include="stb_image.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="extras\chapter6\shader.fs" />
+    <None Include="extras\chapter6\shader.vs" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
